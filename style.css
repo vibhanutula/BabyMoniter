@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Comfortaa', cursive;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #Number
+{
+font-size: 18px;
+}
+
+canvas {
+    box-shadow: 10, 10, 10,  rgb(0, 0, 0);
+    border-radius: 30px;
+    margin-top: 30px;
+}
